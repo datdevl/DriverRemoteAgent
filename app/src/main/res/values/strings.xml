@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Driver Remote Agent</string>
+    <string name="accessibility_service_label">Driver Remote Accessibility Service</string>
+    <string name="accessibility_service_description">Enables authorized remote controllers to inject navigation inputs and touch interactions.</string>
+    <string name="notification_channel_name">Remote Agent Active Service</string>
+    <string name="notification_channel_desc">Shows real-time connection status and active WebRTC screen streaming.</string>
+    <string name="notification_title">Driver Remote Agent Active</string>
+    <string name="notification_streaming">Streaming screen to paired controller</string>
+    <string name="notification_stop_action">Stop Remote</string>
+</resources>
